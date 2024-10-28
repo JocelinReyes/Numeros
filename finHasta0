@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(){ // iniciamos el método 
 int x;
 do {
 scanf("%d",&x);
