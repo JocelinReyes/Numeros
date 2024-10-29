@@ -4,5 +4,5 @@ int main(){ // iniciamos el método
 int x;
 do {
 scanf("%d",&x);
-}  while (x != 0);
+}  while (x != 0); //comenzamos el ciclo 
 }
