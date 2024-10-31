@@ -2,7 +2,7 @@
 
 int main(){
 int x;
-printf("Escribe el número sin decimales: ");
+printf("Escribe el número sin decimales: "); // pedimos el dato
 scanf("%d",&x);
 if (x%2==0){
 printf("El número es par");
