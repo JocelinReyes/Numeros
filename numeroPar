@@ -8,6 +8,6 @@ if (x%2==0){
 printf("El número es par");
 }
 else{
-printf("El número es impar");
+printf("El número es impar"); //impresión de la comparación 
 }
 }
