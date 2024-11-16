@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){ // iniciamos el método 
-int x;
+int x; //variable x
 do {
 scanf("%d",&x);
 }  while (x != 0); //comenzamos el ciclo 
